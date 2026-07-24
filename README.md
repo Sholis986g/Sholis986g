@@ -1,567 +1,280 @@
-<!-- ========================================================= -->
-<!--                Ahmad Sholis | GitHub Profile              -->
-<!-- ========================================================= -->
+<!-- 
+  ============================================
+  AHMAD SHOLIS · SECURITY ENGINEER
+  Premium Portfolio Profile
+  ============================================
+-->
 
+<!-- BANNER -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F19,50:00C6FF,100:0072FF&text=Ahmad%20Sholis&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Cyber%20Security%20Engineer%20•%20Digital%20Forensics%20•%20Full%20Stack%20Developer&descAlignY=60"/>
-
+  <img src="assets/banner.svg" width="100%" alt="Ahmad Sholis Banner"/>
 </div>
 
-<br>
-
+<!-- TYPING ANIMATION -->
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Cyber+Security+Engineer;Digital+Forensics+Enthusiast;Full+Stack+Developer;DevOps+Enthusiast;Graphic+Designer;Always+Learning+Something+New"/>
-
+  <img src="assets/typing.svg" width="500" alt="Typing Animation"/>
 </div>
 
----
+<!-- DIVIDER -->
+<img src="assets/divider.svg" width="100%"/>
+
+<!-- 
+  ============================================
+  ABOUT ME
+  ============================================
+-->
 
 <div align="center">
-
-### 🛡️ Building Secure Systems • Solving Problems • Creating Digital Experiences
-
+  <h3 style="color: #00D4FF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 300; letter-spacing: 3px; font-size: 12px; margin-bottom: 2px;">
+    SYSTEM · PROFILE
+  </h3>
+  <h2 style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 300; font-size: 28px; margin-top: 4px;">
+    About Me
+  </h2>
 </div>
 
----
-
-## 👨‍💻 About Me
-
-Hi there! 👋
-
-I'm **Ahmad Sholis**, an Indonesian technology enthusiast with a strong passion for **Cyber Security**, **Digital Forensics**, and **Software Engineering**.
-
-I enjoy identifying vulnerabilities, securing infrastructures, and developing scalable applications that solve real-world problems. My experience spans from web application development and Linux server administration to Docker-based deployments and digital product design.
-
-Outside of programming, I also enjoy photography, traveling, and graphic design. I believe that technology and creativity complement each other in building impactful digital experiences.
-
----
-
-## 🚀 What I'm Doing
-
-- 🔐 Learning Offensive Security & Digital Forensics
-- 💻 Building Web Applications using Laravel
-- 🐳 Managing Docker-based Infrastructure
-- 🌐 Developing WordPress Websites
-- 🎨 Designing Digital Content & Branding
-- 📷 Exploring Photography & Travel
-- ☁️ Learning Cloud Infrastructure
-- 🤝 Contributing to Open Source Projects
-
----
-
-## 🎯 Areas of Interest
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🔐 Cyber Security
-
-- Web Application Security
-- Vulnerability Assessment
-- Penetration Testing
-- Secure Development
-- Linux Hardening
-- Network Security
-
-</td>
-
-<td width="50%">
-
-### 🔎 Digital Forensics
-
-- Incident Response
-- Log Analysis
-- Malware Basics
-- Evidence Collection
-- Memory Analysis
-- File System Investigation
-
-</td>
-
-</tr>
+<table align="center" style="border-collapse: collapse; border: none; max-width: 1000px; width: 100%; margin: 16px auto;">
+  <tr>
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 8px; padding: 32px; background: rgba(5, 8, 22, 0.6); vertical-align: top; width: 60%;">
+      
+      <div style="font-family: 'Consolas', 'Courier New', monospace; font-size: 13px; color: #8892B0; margin-bottom: 12px;">
+        <span style="color: #00D4FF; opacity: 0.5;">$</span> whoami
+      </div>
+      
+      <div style="font-family: 'Segoe UI', Arial, sans-serif; color: #FFFFFF; font-size: 18px; font-weight: 300;">
+        <span style="color: #00D4FF;">Ahmad Sholis</span> — Cyber Security Engineer
+      </div>
+      
+      <div style="font-family: 'Segoe UI', Arial, sans-serif; color: #8892B0; font-size: 14px; line-height: 1.8; margin-top: 12px;">
+        Building secure systems and elegant solutions at the intersection 
+        of security and development.
+        <br><br>
+        <span style="color: #00D4FF; opacity: 0.4;">▸</span> 6+ years engineering experience
+        <br>
+        <span style="color: #00D4FF; opacity: 0.4;">▸</span> 20+ security projects delivered
+        <br>
+        <span style="color: #00D4FF; opacity: 0.4;">▸</span> 50+ vulnerabilities identified
+      </div>
+      
+      <!-- Quick Stats -->
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 20px;">
+        <div style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 4px; padding: 10px 14px; background: rgba(0, 212, 255, 0.02);">
+          <div style="font-size: 9px; color: #8892B0; letter-spacing: 2px; text-transform: uppercase;">Focus</div>
+          <div style="color: #FFFFFF; font-size: 12px; margin-top: 2px;">🔒 Security Architecture</div>
+        </div>
+        <div style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 4px; padding: 10px 14px; background: rgba(0, 212, 255, 0.02);">
+          <div style="font-size: 9px; color: #8892B0; letter-spacing: 2px; text-transform: uppercase;">Status</div>
+          <div style="color: #00D4FF; font-size: 12px; margin-top: 2px;">● Active</div>
+        </div>
+      </div>
+      
+    </td>
+    
+    <td style="border: none; padding-left: 24px; vertical-align: middle; width: 40%;">
+      <img src="assets/terminal.svg" width="100%" alt="Terminal"/>
+    </td>
+  </tr>
 </table>
 
----
+<!-- DIVIDER -->
+<img src="assets/divider.svg" width="100%"/>
 
-# ⚡ Tech Stack
-
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=php,python,js,html,css,bash"/>
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,bootstrap"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-### DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,nginx"/>
-
-### Design Tools
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai"/>
-
-### IDE
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</div>
-
----
-
-# 🧰 Favorite Tools
-
-| Category | Tools |
-|----------|------|
-| Operating System | Linux, Ubuntu, Windows |
-| Containers | Docker |
-| Backend | Laravel, PHP |
-| Frontend | HTML, CSS, JavaScript |
-| Database | MySQL, PostgreSQL |
-| CMS | WordPress |
-| Version Control | Git & GitHub |
-| Design | Photoshop, Illustrator, Canva, Figma |
-
----
-
-# 💼 Professional Focus
-
-```text
-🔐 Cyber Security
-██████████████████░░ 90%
-
-🐳 Docker & DevOps
-█████████████████░░░ 85%
-
-💻 Full Stack Development
-██████████████████░░ 90%
-
-🖥 Linux Administration
-████████████████░░░░ 80%
-
-🎨 Graphic Design
-█████████████████░░░ 85%
-
-🔎 Digital Forensics
-████████████████░░░░ 80%
-```
-
----
-
-## 🌱 Currently Learning
-
-```text
-✓ Advanced Web Penetration Testing
-
-✓ Malware Analysis
-
-✓ Cloud Security
-
-✓ Kubernetes
-
-✓ Reverse Engineering
-
-✓ AI for Cyber Security
-```
-
----
-
-# 🏆 Leadership Experience
-
-### 👨‍💼 Chairman — Student Executive Board (BEM FST)
-
-- Leading organizational programs
-- Managing multidisciplinary teams
-- Strategic planning & execution
-- Collaboration with academic stakeholders
-
-### 💻 Chairman — Information Technology Student Association
-
-- Organizing technology events
-- Leading internal development teams
-- Building collaborations
-- Community empowerment
-
----
-# 🚀 Featured Projects
+<!-- 
+  ============================================
+  TECH STACK
+  ============================================
+-->
 
 <div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏥 **BPJS Queue Management** | Online queue management system integrated with healthcare workflow | Laravel • Docker • MySQL |
-| 🔐 **Cyber Security Lab** | Collection of penetration testing, Linux hardening, and security practice projects | Linux • Bash • Python |
-| 🌐 **Company Website Development** | Development and maintenance of business & educational websites | WordPress • PHP |
-| ⚙️ **Infrastructure Deployment** | Dockerized application deployment and server optimization | Docker • Nginx • Ubuntu |
-| 🎨 **Digital Branding** | Graphic design and social media content production | Photoshop • Illustrator • Canva |
-
+  <h3 style="color: #00D4FF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 300; letter-spacing: 3px; font-size: 12px; margin-bottom: 2px;">
+    SYSTEM · TOOLKIT
+  </h3>
+  <h2 style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 300; font-size: 28px; margin-top: 4px;">
+    Tech Stack
+  </h2>
 </div>
 
----
+<table align="center" style="border-collapse: collapse; border: none; max-width: 1000px; width: 100%; margin: 16px auto;">
+  <tr>
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 6px; padding: 18px 22px; background: rgba(5, 8, 22, 0.6); width: 25%;">
+      <div style="color: #00D4FF; font-size: 18px;">🛡️</div>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 500; margin-top: 4px;">Security</div>
+      <div style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; margin-top: 4px; line-height: 1.6;">
+        Kali · Metasploit · Wireshark<br>
+        Burp Suite · Nmap · OWASP
+      </div>
+    </td>
+    
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 6px; padding: 18px 22px; background: rgba(5, 8, 22, 0.6); width: 25%; margin-left: 12px;">
+      <div style="color: #00D4FF; font-size: 18px;">💻</div>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 500; margin-top: 4px;">Development</div>
+      <div style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; margin-top: 4px; line-height: 1.6;">
+        PHP · Laravel · React · Node<br>
+        Python · Go · TypeScript
+      </div>
+    </td>
+    
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 6px; padding: 18px 22px; background: rgba(5, 8, 22, 0.6); width: 25%; margin-left: 12px;">
+      <div style="color: #00D4FF; font-size: 18px;">⚙️</div>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 500; margin-top: 4px;">Infrastructure</div>
+      <div style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; margin-top: 4px; line-height: 1.6;">
+        Docker · Kubernetes · AWS<br>
+        Linux · Nginx · CI/CD
+      </div>
+    </td>
+    
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 6px; padding: 18px 22px; background: rgba(5, 8, 22, 0.6); width: 25%; margin-left: 12px;">
+      <div style="color: #00D4FF; font-size: 18px;">🎨</div>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 500; margin-top: 4px;">Creative</div>
+      <div style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; margin-top: 4px; line-height: 1.6;">
+        Photoshop · Illustrator · Figma<br>
+        Canva · Lightroom
+      </div>
+    </td>
+  </tr>
+</table>
 
-# 📌 Current Projects
+<!-- DIVIDER -->
+<img src="assets/divider.svg" width="100%"/>
 
-```text
-🔐 Learning Digital Forensics
-
-███████████████████████░░░░░░ 80%
-
-🐳 Docker Infrastructure
-
-██████████████████████████░░░ 90%
-
-🌐 Web Security
-
-████████████████████████░░░░░ 85%
-
-💻 Laravel Development
-
-███████████████████████████░░ 95%
-
-🎨 Graphic Design
-
-█████████████████████████░░░░ 88%
-```
-
----
-
-# 📈 GitHub Statistics
+<!-- 
+  ============================================
+  FEATURED PROJECTS
+  ============================================
+-->
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sholis986g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholis986g&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <h3 style="color: #00D4FF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 300; letter-spacing: 3px; font-size: 12px; margin-bottom: 2px;">
+    SYSTEM · PROJECTS
+  </h3>
+  <h2 style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 300; font-size: 28px; margin-top: 4px;">
+    Featured Work
+  </h2>
 </div>
 
----
+<!-- Project Cards -->
+<table align="center" style="border-collapse: collapse; border: none; max-width: 1000px; width: 100%; margin: 16px auto;">
+  <tr>
+    <!-- Project 1 -->
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 8px; padding: 24px; background: rgba(5, 8, 22, 0.6); width: 33%; vertical-align: top;">
+      <div style="color: #00D4FF; font-size: 12px; font-family: 'Consolas', 'Courier New', monospace; opacity: 0.4;">PROJECT_01</div>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 400; margin-top: 4px;">BPJS Bridge</div>
+      <div style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; line-height: 1.6; margin-top: 8px;">
+        Healthcare integration platform serving 10,000+ patients with anti-duplicate system.
+      </div>
+      <div style="margin-top: 12px;">
+        <span style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; border: 1px solid rgba(0, 212, 255, 0.1); border-radius: 3px; padding: 2px 8px; margin-right: 4px;">Laravel</span>
+        <span style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; border: 1px solid rgba(0, 212, 255, 0.1); border-radius: 3px; padding: 2px 8px; margin-right: 4px;">React</span>
+        <span style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; border: 1px solid rgba(0, 212, 255, 0.1); border-radius: 3px; padding: 2px 8px;">MySQL</span>
+      </div>
+      <div style="margin-top: 12px;">
+        <a href="#" style="color: #00D4FF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; text-decoration: none; opacity: 0.6;">View Project →</a>
+      </div>
+    </td>
+    
+    <!-- Project 2 -->
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 8px; padding: 24px; background: rgba(5, 8, 22, 0.6); width: 33%; vertical-align: top; margin-left: 12px;">
+      <div style="color: #00D4FF; font-size: 12px; font-family: 'Consolas', 'Courier New', monospace; opacity: 0.4;">PROJECT_02</div>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 400; margin-top: 4px;">RSQL</div>
+      <div style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; line-height: 1.6; margin-top: 8px;">
+        Object-oriented SQL query builder with 50K+ monthly downloads and 1.2K stars.
+      </div>
+      <div style="margin-top: 12px;">
+        <span style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; border: 1px solid rgba(0, 212, 255, 0.1); border-radius: 3px; padding: 2px 8px; margin-right: 4px;">PHP</span>
+        <span style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; border: 1px solid rgba(0, 212, 255, 0.1); border-radius: 3px; padding: 2px 8px; margin-right: 4px;">SQL</span>
+        <span style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; border: 1px solid rgba(0, 212, 255, 0.1); border-radius: 3px; padding: 2px 8px;">Composer</span>
+      </div>
+      <div style="margin-top: 12px;">
+        <a href="#" style="color: #00D4FF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; text-decoration: none; opacity: 0.6;">View Project →</a>
+      </div>
+    </td>
+    
+    <!-- Project 3 -->
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 8px; padding: 24px; background: rgba(5, 8, 22, 0.6); width: 33%; vertical-align: top; margin-left: 12px;">
+      <div style="color: #00D4FF; font-size: 12px; font-family: 'Consolas', 'Courier New', monospace; opacity: 0.4;">PROJECT_03</div>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 400; margin-top: 4px;">jualan</div>
+      <div style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; line-height: 1.6; margin-top: 8px;">
+        Smart e-commerce platform with AI recommendations serving 500+ merchants.
+      </div>
+      <div style="margin-top: 12px;">
+        <span style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; border: 1px solid rgba(0, 212, 255, 0.1); border-radius: 3px; padding: 2px 8px; margin-right: 4px;">React</span>
+        <span style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; border: 1px solid rgba(0, 212, 255, 0.1); border-radius: 3px; padding: 2px 8px; margin-right: 4px;">Node</span>
+        <span style="color: #8892B0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; border: 1px solid rgba(0, 212, 255, 0.1); border-radius: 3px; padding: 2px 8px;">MongoDB</span>
+      </div>
+      <div style="margin-top: 12px;">
+        <a href="#" style="color: #00D4FF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; text-decoration: none; opacity: 0.6;">View Project →</a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-# 🔥 GitHub Streak
+<!-- DIVIDER -->
+<img src="assets/divider.svg" width="100%"/>
+
+<!-- 
+  ============================================
+  GITHUB STATS
+  ============================================
+-->
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholis986g&theme=tokyonight&hide_border=true"/>
-
+  <h3 style="color: #00D4FF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 300; letter-spacing: 3px; font-size: 12px; margin-bottom: 2px;">
+    SYSTEM · ANALYTICS
+  </h3>
+  <h2 style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 300; font-size: 28px; margin-top: 4px;">
+    GitHub Metrics
+  </h2>
 </div>
-
----
-
-# 📊 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sholis986g&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Sholis986g&show_icons=true&theme=dark&bg_color=050816&title_color=00D4FF&icon_color=00D4FF&text_color=8892B0&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholis986g&theme=dark&background=050816&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=8892B0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0&hide_border=true" width="49%" />
 </div>
 
----
-
-# 🏆 GitHub Trophy
+<br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sholis986g&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sholis986g&theme=react-dark&bg_color=050816&color=8892B0&line=00D4FF&point=00D4FF&hide_border=true&area=true&area_color=00D4FF&custom_title=Contribution%20Activity" width="100%" />
 </div>
 
----
+<!-- DIVIDER -->
+<img src="assets/divider.svg" width="100%"/>
 
-# 💡 Development Philosophy
-
-> "Technology should not only work, but also provide security, scalability, and meaningful impact."
-
-I enjoy building systems that combine **performance**, **security**, and **user experience**.
-
-Every project is an opportunity to learn something new and improve continuously.
-
----
-
-# 🛡 Cyber Security Arsenal
+<!-- 
+  ============================================
+  INTERESTS
+  ============================================
+-->
 
 <div align="center">
-
-| Offensive Security | Defensive Security |
-|-------------------|--------------------|
-| Web Pentesting | Linux Hardening |
-| OWASP Top 10 | Secure Configuration |
-| Reconnaissance | Server Monitoring |
-| Vulnerability Assessment | Incident Response |
-| Burp Suite | Log Analysis |
-| Nmap | Firewall Management |
-
+  <h3 style="color: #00D4FF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 300; letter-spacing: 3px; font-size: 12px; margin-bottom: 2px;">
+    SYSTEM · INTERESTS
+  </h3>
+  <h2 style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 300; font-size: 28px; margin-top: 4px;">
+    Beyond Code
+  </h2>
 </div>
 
----
-
-# ⚙️ Development Workflow
-
-```text
-Idea 💡
-
-      │
-
-      ▼
-
-Planning 📋
-
-      │
-
-      ▼
-
-Development 💻
-
-      │
-
-      ▼
-
-Testing 🧪
-
-      │
-
-      ▼
-
-Security Audit 🔐
-
-      │
-
-      ▼
-
-Deployment 🚀
-
-      │
-
-      ▼
-
-Monitoring 📊
-
-      │
-
-      ▼
-
-Continuous Improvement ♻️
-```
-
----
-
-# 🖥 Operating Systems
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
-
-</div>
-
----
-
-# 🗄 Database
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-</div>
-
----
-
-# ☁️ Infrastructure
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,nginx"/>
-
-</div>
-
----
-
-# 🎨 Design Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ps,ai,figma"/>
-
-</div>
-
----
-
-# 📚 Knowledge Areas
-
-- 🔐 Cyber Security
-- 🔍 Digital Forensics
-- 🐳 Docker & Containerization
-- ⚙️ DevOps Fundamentals
-- 🌐 Full Stack Development
-- ☁️ Linux Administration
-- 🖥 Server Deployment
-- 🎨 Graphic Design
-- 📷 Photography
-- 🚀 Technology Innovation
-
----
-# 🗺️ My Journey
-
-```text
-2022
-│
-├── 🎓 Graduated from Vocational High School (Multimedia)
-│
-2023
-│
-├── 💻 Focused on Web Development
-├── 🐧 Started learning Linux & Server Administration
-│
-2024
-│
-├── 🛡️ Entered Cyber Security & Digital Forensics
-├── 🐳 Learned Docker & Containerization
-├── 🌐 Built multiple Laravel & WordPress projects
-│
-2025
-│
-├── 🏥 Internship in Healthcare Technology
-├── ⚙️ Infrastructure Deployment
-├── 🔐 Security Research
-│
-2026
-│
-├── 💼 Digital Marketing & Web Development
-├── 🚀 Building Better Digital Solutions
-└── 🌱 Continuous Learning
-```
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Goal | Progress |
-|------|----------|
-| 🛡️ Master Web Penetration Testing | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
-| 🔍 Advanced Digital Forensics | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
-| 🐳 Production Docker Infrastructure | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
-| ☁️ Cloud Computing | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
-| 🚀 Open Source Contribution | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
-
-</div>
-
----
-
-# 📖 Currently Exploring
-
-- 🔐 Active Directory Security
-- ☁️ Cloud Security
-- 🔍 Memory Forensics
-- 🦠 Malware Analysis
-- 🐧 Linux Internals
-- ⚙️ Kubernetes
-- 🛡️ Red Team Methodology
-- 🤖 AI for Cyber Security
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Sholis986g">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-> **Ganti URL Instagram, LinkedIn, dan email dengan milikmu.**
-
----
-
-# ❤️ Fun Facts
-
-- ☕ I enjoy solving problems more than memorizing theories.
-- 📷 Photography helps me see details from different perspectives.
-- 🌍 Traveling inspires creativity and new ideas.
-- 🎨 I love combining technology with visual design.
-- 🛡️ I believe security should be integrated from the beginning of every project.
-- 📚 I enjoy learning something new every single day.
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-> **"The quieter you become, the more you are able to hear."**
-
-> *— Kali Linux Philosophy*
-
-</div>
-
----
-
-# 📊 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sholis986g&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Aktifkan GitHub Action terlebih dahulu agar animasi ini muncul.**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sholis986g/Sholis986g/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always interested in collaborating on projects related to:
-
-- 🛡️ Cyber Security
-- 🔍 Digital Forensics
-- 🐳 DevOps
-- 💻 Full Stack Development
-- 🌐 Open Source
-- ☁️ Cloud Infrastructure
-
-If you have an interesting idea or project, feel free to connect with me!
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-*"Building secure systems, learning continuously, and creating technology that matters."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B0F19,50:00C6FF,100:0072FF"/>
-
-</div>
+<table align="center" style="border-collapse: collapse; border: none; max-width: 800px; width: 100%; margin: 16px auto;">
+  <tr>
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 6px; padding: 14px 20px; background: rgba(5, 8, 22, 0.4); text-align: center;">
+      <span style="font-size: 20px;">📸</span>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; margin-top: 4px;">Photography</div>
+    </td>
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 6px; padding: 14px 20px; background: rgba(5, 8, 22, 0.4); text-align: center; margin-left: 8px;">
+      <span style="font-size: 20px;">⚡</span>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; margin-top: 4px;">Technology</div>
+    </td>
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 6px; padding: 14px 20px; background: rgba(5, 8, 22, 0.4); text-align: center; margin-left: 8px;">
+      <span style="font-size: 20px;">🎨</span>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; margin-top: 4px;">UI Design</div>
+    </td>
+    <td style="border: 1px solid rgba(0, 212, 255, 0.06); border-radius: 6px; padding: 14px 20px; background: rgba(5, 8, 22, 0.4); text-align: center; margin-left: 8px;">
+      <span style="font-size: 20px;">🤖</span>
+      <div style="color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; margin-top: 4px;">Automation</div>
+    </td>
+  </tr>
+</table>
+
+<!-- DIVIDER -->
+<img src="assets/divider.svg" width="100
