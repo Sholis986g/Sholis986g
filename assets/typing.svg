@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="600" height="60">
+  <defs>
+    <linearGradient id="typingGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF"/>
+      <stop offset="100%" style="stop-color:#0066FF"/>
+    </linearGradient>
+    <filter id="typingGlow">
+      <feGaussianBlur stdDeviation="2"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Terminal prompt -->
+  <text x="0" y="35" font-family="'Consolas', 'Courier New', monospace" font-size="20" fill="#8892B0" opacity="0.6">$</text>
+  
+  <!-- Animated text -->
+  <text x="30" y="35" font-family="'Consolas', 'Courier New', monospace" font-size="20" fill="url(#typingGrad)" filter="url(#typingGlow)">
+    <animate attributeName="opacity" values="1;0;1" dur="0.1s" repeatCount="indefinite"/>
+    Security Engineer
+  </text>
+  
+  <!-- Cursor -->
+  <rect x="240" y="17" width="10" height="20" fill="#00D4FF" opacity="0.8">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
