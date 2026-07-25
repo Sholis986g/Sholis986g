@@ -1,173 +1,136 @@
-<!-- BANNER -->
+[README.md](https://github.com/user-attachments/files/30367996/README.md)
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0066FF&height=200&section=header&text=Ahmad%20Sholis&fontSize=50&fontAlignY=35&desc=Security%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&animation=twinkling" width="100%"/>
+
+<img src="./assets/banner.svg" width="100%" alt="Ahmad Sholis — Cyber Security Engineer" />
+
 </div>
 
-<!-- TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Engineer;Full+Stack+Developer;Offensive+Security+%26+Forensics;Building+Secure+Systems" alt="Typing SVG"/>
-</p>
+<br />
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sholis986g/Sholis986g/main/assets/divider.svg" width="100%"/>
+<div align="center">
+<img src="./assets/header-about.svg" width="230" alt="About" />
+</div>
 
-<!-- ABOUT -->
-<h2 align="center">About Me</h2>
+<br />
 
-<table align="center">
+<table>
 <tr>
-<td>
+<td width="70%" valign="top">
 
-<p>
-  Building secure systems and elegant solutions at the intersection of 
-  <strong style="color:#00D4FF;">security</strong> and 
-  <strong>development</strong>.
-</p>
+**Cyber Security Engineer** based in Yogyakarta, Indonesia — I spend most of my time hardening systems, chasing down evidence in digital forensics work, and shipping full‑stack applications end to end.
 
-<p>
-  ▸ 6+ Years Experience<br/>
-  ▸ Offensive Security & Digital Forensics<br/>
-  ▸ Full Stack Development<br/>
-  ▸ Linux & Docker Infrastructure
-</p>
+My background sits at the intersection of three disciplines: securing infrastructure, building the software that runs on it, and designing the interfaces people actually see. That combination shapes how I work — code gets written with the same attention to detail as a security audit, and every interface gets the same care as a piece of visual design.
 
-</td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sholis986g&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8892B0&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
-</td>
-</tr>
+Outside of client and project work, I'm usually deep in a Linux terminal automating something that used to be manual, sketching out a more resilient system architecture, or out with a camera treating a scene the same way I'd treat a layout — for composition, light, and balance.
+
+<table>
+<tr><td><b>Role</b></td><td>Cyber Security Engineer &amp; Full Stack Developer</td></tr>
+<tr><td><b>Focus</b></td><td>Digital Forensics · Secure Architecture · Automation</td></tr>
+<tr><td><b>Also into</b></td><td>Visual Design · Photography</td></tr>
+<tr><td><b>Based in</b></td><td>Yogyakarta, Indonesia</td></tr>
 </table>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sholis986g/Sholis986g/main/assets/divider.svg" width="100%"/>
-
-<!-- TECH STACK -->
-<h2 align="center">Tech Stack</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-  <div style="font-size:28px;">🛡️</div>
-  <div><strong>Security</strong></div>
-  <div style="color:#8892B0;font-size:12px;">Kali · Metasploit · Nmap</div>
 </td>
-<td align="center" width="25%">
-  <div style="font-size:28px;">💻</div>
-  <div><strong>Development</strong></div>
-  <div style="color:#8892B0;font-size:12px;">Laravel · React · Python</div>
-</td>
-<td align="center" width="25%">
-  <div style="font-size:28px;">⚙️</div>
-  <div><strong>Infrastructure</strong></div>
-  <div style="color:#8892B0;font-size:12px;">Docker · AWS · Linux</div>
-</td>
-<td align="center" width="25%">
-  <div style="font-size:28px;">🎨</div>
-  <div><strong>Creative</strong></div>
-  <div style="color:#8892B0;font-size:12px;">Photoshop · Figma</div>
-</td>
-</tr>
-</table>
+<td width="30%" align="center" valign="top">
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sholis986g/Sholis986g/main/assets/divider.svg" width="100%"/>
-
-<!-- PROJECTS -->
-<h2 align="center">Featured Projects</h2>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🏥 BPJS Bridge
-Healthcare integration platform
-
-**Tech:** Laravel · React · MySQL
-
-[View →](https://github.com/Sholis986g/Bridging-antrian-pasien-BPJS)
-
-</td>
-<td width="50%">
-
-### 📊 RSQL
-SQL query builder · 50K downloads
-
-**Tech:** PHP · SQL · Composer
-
-[View →](https://github.com/Sholis986g/RSQL)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 jualan
-E-commerce · 500+ merchants
-
-**Tech:** React · Node · MongoDB
-
-[View →](https://github.com/Sholis986g/jualan)
-
-</td>
-<td width="50%">
-
-### 📁 nitara
-File management system
-
-**Tech:** Vue · Laravel · AWS
-
-[View →](https://github.com/Sholis986g/nitara)
+<img src="./assets/logo.svg" width="170" alt="AS monogram" />
 
 </td>
 </tr>
 </table>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sholis986g/Sholis986g/main/assets/divider.svg" width="100%"/>
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="" />
+</div>
 
-<!-- GITHUB STATS -->
-<h2 align="center">GitHub Analytics</h2>
+<div align="center">
+<img src="./assets/header-stack.svg" width="260" alt="Tech Stack" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sholis986g&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8892B0&hide_border=true&include_all_commits=true&count_private=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholis986g&theme=dark&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=8892B0&sideNums=FFFFFF&hide_border=true" width="47%"/>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sholis986g&theme=react-dark&bg_color=0D1117&color=8892B0&line=00D4FF&point=00D4FF&hide_border=true&area=true&area_color=00D4FF" width="95%"/>
-</p>
+<div align="center">
+<img src="./assets/skills-panel.svg" width="100%" alt="Tech stack — Linux, Docker, Laravel, PHP, JavaScript, MySQL, Git, WordPress, Photoshop, Illustrator, Figma, Canva, Lightroom" />
+</div>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sholis986g/Sholis986g/main/assets/divider.svg" width="100%"/>
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="" />
+</div>
 
-<!-- INTERESTS -->
-<h2 align="center">Beyond Code</h2>
+<div align="center">
+<img src="./assets/header-projects.svg" width="290" alt="Featured Work" />
+</div>
 
-<p align="center">
-  <span style="color:#8892B0;">📸 Photography</span> &nbsp;·&nbsp;
-  <span style="color:#8892B0;">⚡ Technology</span> &nbsp;·&nbsp;
-  <span style="color:#8892B0;">🎨 UI Design</span> &nbsp;·&nbsp;
-  <span style="color:#8892B0;">🤖 Automation</span>
-</p>
+<br />
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sholis986g/Sholis986g/main/assets/divider.svg" width="100%"/>
+<table>
+<tr>
+<td width="33%">
+<img src="./assets/card-security.svg" width="100%" alt="Security & Forensics" />
+</td>
+<td width="33%">
+<img src="./assets/card-webdev.svg" width="100%" alt="Full Stack Platforms" />
+</td>
+<td width="33%">
+<img src="./assets/card-design.svg" width="100%" alt="Visual Identity & Design" />
+</td>
+</tr>
+</table>
 
-<!-- FOOTER -->
-<h4 align="center" style="color:#8892B0;font-weight:300;">
-  © 2026 Ahmad Sholis · Built with precision
-</h4>
+<sub align="center">
 
-<p align="center">
-  <a href="#" style="color:#00D4FF;text-decoration:none;">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="#" style="color:#00D4FF;text-decoration:none;">Twitter</a> &nbsp;·&nbsp;
-  <a href="#" style="color:#00D4FF;text-decoration:none;">Portfolio</a> &nbsp;·&nbsp;
-  <a href="#" style="color:#00D4FF;text-decoration:none;">Email</a>
-</p>
+<div align="center">Cards above map to the categories I build in — swap in your own repositories by editing the three card SVGs or pinning repos further down.</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sholis986g&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile Views"/>
-</p>
+</sub>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0066FF&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="" />
+</div>
+
+<div align="center">
+<img src="./assets/header-metrics.svg" width="230" alt="Metrics" />
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadsholis&show_icons=true&hide_border=true&bg_color=050816&title_color=5EEAFF&icon_color=3B82F6&text_color=AAB4D4&border_radius=14" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsholis&hide_border=true&background=050816&ring=3B82F6&fire=5EEAFF&currStreakLabel=5EEAFF&sideLabels=AAB4D4&currStreakNum=E8ECF7&sideNums=E8ECF7&dates=6B7694&border_radius=14" width="49%" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsholis&layout=compact&hide_border=true&bg_color=050816&title_color=5EEAFF&text_color=AAB4D4&border_radius=14" width="49%" alt="Top Languages" />
+
+</div>
+
+<sub>
+
+<div align="center">Replace <code>ahmadsholis</code> in the image URLs above with your GitHub username.</div>
+
+</sub>
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="" />
+</div>
+
+<div align="center">
+<img src="./assets/header-connect.svg" width="230" alt="Connect" />
+</div>
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/ahmadsholis"><img src="./assets/icon-github.svg" width="56" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ahmadsholis"><img src="./assets/icon-linkedin.svg" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ahmadsholis"><img src="./assets/icon-instagram.svg" width="56" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="mailto:hello@ahmadsholis.dev"><img src="./assets/icon-mail.svg" width="56" alt="Email" /></a>
+
+</div>
+
+<br />
+
+<div align="center">
+<img src="./assets/footer.svg" width="100%" alt="" />
+</div>
