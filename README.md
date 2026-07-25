@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30367996/README.md)
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="Ahmad Sholis — Cyber Security Engineer" />
@@ -95,20 +94,14 @@ Outside of client and project work, I'm usually deep in a Linux terminal automat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadsholis&show_icons=true&hide_border=true&bg_color=050816&title_color=5EEAFF&icon_color=3B82F6&text_color=AAB4D4&border_radius=14" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsholis&hide_border=true&background=050816&ring=3B82F6&fire=5EEAFF&currStreakLabel=5EEAFF&sideLabels=AAB4D4&currStreakNum=E8ECF7&sideNums=E8ECF7&dates=6B7694&border_radius=14" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sholis986g&show_icons=true&hide_border=true&bg_color=050816&title_color=5EEAFF&icon_color=3B82F6&text_color=AAB4D4&border_radius=14" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholis986g&hide_border=true&background=050816&ring=3B82F6&fire=5EEAFF&currStreakLabel=5EEAFF&sideLabels=AAB4D4&currStreakNum=E8ECF7&sideNums=E8ECF7&dates=6B7694&border_radius=14" width="49%" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsholis&layout=compact&hide_border=true&bg_color=050816&title_color=5EEAFF&text_color=AAB4D4&border_radius=14" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholis986g&layout=compact&hide_border=true&bg_color=050816&title_color=5EEAFF&text_color=AAB4D4&border_radius=14" width="49%" alt="Top Languages" />
 
 </div>
-
-<sub>
-
-<div align="center">Replace <code>ahmadsholis</code> in the image URLs above with your GitHub username.</div>
-
-</sub>
 
 <div align="center">
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -122,12 +115,16 @@ Outside of client and project work, I'm usually deep in a Linux terminal automat
 
 <div align="center">
 
-<a href="https://github.com/ahmadsholis"><img src="./assets/icon-github.svg" width="56" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ahmadsholis"><img src="./assets/icon-linkedin.svg" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/ahmadsholis"><img src="./assets/icon-instagram.svg" width="56" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="mailto:hello@ahmadsholis.dev"><img src="./assets/icon-mail.svg" width="56" alt="Email" /></a>
+<a href="https://github.com/Sholis986g"><img src="./assets/icon-github.svg" width="56" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/your-linkedin"><img src="./assets/icon-linkedin.svg" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/your-instagram"><img src="./assets/icon-instagram.svg" width="56" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="mailto:your@email.com"><img src="./assets/icon-mail.svg" width="56" alt="Email" /></a>
 
 </div>
+
+<sub>
+<div align="center">Update the LinkedIn, Instagram and email links above with your own.</div>
+</sub>
 
 <br />
 
