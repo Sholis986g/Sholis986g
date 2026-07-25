@@ -85,7 +85,7 @@
 
     <!-- name -->
     <text x="78" y="205" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="72" font-weight="700" fill="url(#text-glow)" letter-spacing="1">
-      Ahmad Sholis
+      Dimas Rizki Setyaji
       <animate attributeName="opacity" values="0.4;1" dur="1.4s" begin="0s" fill="freeze"/>
     </text>
     <text x="80" y="205" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="72" font-weight="700" fill="url(#text-glow)" letter-spacing="1" filter="url(#soft-blur)" opacity="0.45">Ahmad Sholis</text>
