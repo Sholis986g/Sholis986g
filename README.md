@@ -1,131 +1,151 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Dimas Rizki Setyaji — Cyber Security Engineer" />
+<!-- Animated Cyber Typing Header -->
+<a href="https://github.com/Sholis986g">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Dimas+Rizki+Setyaji+%F0%9F%91%8B;Cyber+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;Digital+Forensics+%26+Threat+Analysis+%F0%9F%94%8D;Full+Stack+Platform+Developer+%E2%9A%A1;Hardening+Infrastructure+%26+Systems+%F0%9F%94%90" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <b>🛡️ Infrastructure Hardening · 🔍 Digital Forensics · ⚡ Full-Stack Systems</b><br>
+  <i>📍 Yogyakarta, Indonesia</i>
+</p>
+
+<!-- Social Connect Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/Sholis986g"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 </div>
 
-<br />
+<br>
+
+### 📟 `dimas@sec-ops:~$ cat profile.json`
+
+```json
+{
+  "name": "Dimas Rizki Setyaji",
+  "role": "Cyber Security Engineer & Full Stack Developer",
+  "location": "Yogyakarta, Indonesia",
+  "philosophy": "Security is not an afterthought — it is the core foundation.",
+  "core_competencies": [
+    "Digital Forensics & Incident Investigation",
+    "Threat Analysis & Vulnerability Assessment",
+    "Infrastructure Hardening & Secure Architecture",
+    "Scalable Full-Stack Application Engineering",
+    "Workflow Automation & Tooling"
+  ],
+  "creative_passions": [
+    "Visual Identity & UI/UX Design",
+    "Architectural & Scene Photography"
+  ]
+}
+```
+
+---
+
+### 🛠️ Technical Arsenal & Frameworks
 
 <div align="center">
-<img src="./assets/header-about.svg" width="230" alt="About" />
+
+#### 🛡️ **Cyber Security & Digital Forensics**
+<p>
+  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-1F2A38?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Digital_Forensics-Autopsy-0A84FF?style=flat-square" alt="Autopsy" />
+  <img src="https://img.shields.io/badge/Log_Analysis-SIEM-5E5CE6?style=flat-square" alt="SIEM" />
+  <img src="https://img.shields.io/badge/Network_Security-Nmap-2B3252?style=flat-square" alt="Nmap" />
+</p>
+
+#### ⚡ **Full-Stack & Backend Engineering**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
+
+#### 🚀 **DevOps, Automation & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
+</p>
+
+#### 🎨 **UI/UX & Creative Direction**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" alt="Lightroom" />
+</p>
+
 </div>
 
-<br />
+---
 
-**Cyber Security Engineer** based in Yogyakarta, Indonesia — I spend most of my time hardening systems, chasing down evidence in digital forensics work, and shipping full‑stack applications end to end.
-
-My background sits at the intersection of three disciplines: securing infrastructure, building the software that runs on it, and designing the interfaces people actually see. That combination shapes how I work — code gets written with the same attention to detail as a security audit, and every interface gets the same care as a piece of visual design.
-
-Outside of client and project work, I'm usually deep in a Linux terminal automating something that used to be manual, sketching out a more resilient system architecture, or out with a camera treating a scene the same way I'd treat a layout — for composition, light, and balance.
-
-<br />
-
-| | |
-|---|---|
-| **Role** | Cyber Security Engineer & Full Stack Developer |
-| **Focus** | Digital Forensics · Secure Architecture · Automation |
-| **Also into** | Visual Design · Photography |
-| **Based in** | Yogyakarta, Indonesia |
-
-<div align="center">
-<img src="./assets/divider.svg" width="100%" alt="" />
-</div>
-
-<div align="center">
-<img src="./assets/header-stack.svg" width="260" alt="Tech Stack" />
-</div>
-
-<br />
-
-<div align="center">
-<img src="./assets/skills-panel.svg" width="100%" alt="Tech stack — Linux, Docker, Laravel, PHP, JavaScript, MySQL, Git, WordPress, Photoshop, Illustrator, Figma, Canva, Lightroom" />
-</div>
-
-<div align="center">
-<img src="./assets/divider.svg" width="100%" alt="" />
-</div>
-
-<div align="center">
-<img src="./assets/header-projects.svg" width="290" alt="Featured Work" />
-</div>
-
-<br />
+### 📂 Focus Disciplines & Domains
 
 <table>
-<tr>
-<td width="33%">
-<img src="./assets/card-security.svg" width="100%" alt="Security & Forensics" />
-</td>
-<td width="33%">
-<img src="./assets/card-webdev.svg" width="100%" alt="Full Stack Platforms" />
-</td>
-<td width="33%">
-<img src="./assets/card-design.svg" width="100%" alt="Visual Identity & Design" />
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛡️ Security & Forensics</h3>
+      <p>Incident response, digital evidence acquisition, system auditing, network packet inspection, and vulnerability mitigation.</p>
+      <code>Linux</code> <code>Wireshark</code> <code>Autopsy</code> <code>SIEM</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Full-Stack Platforms</h3>
+      <p>Architecting secure, high-performance web applications, robust RESTful APIs, database design, and end-to-end delivery.</p>
+      <code>Laravel</code> <code>PHP</code> <code>MySQL</code> <code>Docker</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 Visual & Creative Media</h3>
+      <p>Crafting intuitive user interfaces, brand identities, graphic compositions, and high-fidelity photography.</p>
+      <code>Figma</code> <code>Photoshop</code> <code>UI/UX</code> <code>Composition</code>
+    </td>
+  </tr>
 </table>
 
-<sub align="center">
+---
 
-<div align="center">Cards above map to the categories I build in — swap in your own repositories by editing the three card SVGs or pinning repos further down.</div>
-
-</sub>
+### 📊 Activity & Analytics
 
 <div align="center">
-<img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sholis986g&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=94A3B8" width="49%" alt="Dimas's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholis986g&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="49%" alt="Dimas's GitHub Streak" />
 </div>
 
-<div align="center">
-<img src="./assets/header-metrics.svg" width="230" alt="Metrics" />
+<div align="center" style="margin-top: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholis986g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=94A3B8" width="50%" alt="Top Languages" />
 </div>
 
-<br />
+---
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Sholis986g&show_icons=true&hide_border=true&bg_color=050816&title_color=5EEAFF&icon_color=3B82F6&text_color=AAB4D4&border_radius=14" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholis986g&hide_border=true&background=050816&ring=3B82F6&fire=5EEAFF&currStreakLabel=5EEAFF&sideLabels=AAB4D4&currStreakNum=E8ECF7&sideNums=E8ECF7&dates=6B7694&border_radius=14" width="49%" alt="GitHub Streak" />
+### 🤝 Let's Connect & Collaborate
 
-</div>
+Whether you're looking to collaborate on security research, discuss infrastructure resilience, or engineer scalable platforms:
 
-<!--
-  Top Languages widget was intentionally left out — it reflects whatever
-  public repos exist on GitHub, which can look misleading (e.g. showing
-  100% HTML) until real project repos are pushed. Add it back once you
-  have a few representative repos public:
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sholis986g&layout=compact&hide_border=true&bg_color=050816&title_color=5EEAFF&text_color=AAB4D4&border_radius=14" width="49%" alt="Top Languages" />
+[![Get in Touch](https://img.shields.io/badge/Contact-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-  If the live stats images above ever break again (shared free services
-  occasionally go down or hit rate limits), swap this whole block for:
-  <img src="./assets/metrics-panel-fallback.svg" width="100%" alt="Metrics" />
-  It needs no external service and always renders.
--->
+<br>
 
-<div align="center">
-<img src="./assets/divider.svg" width="100%" alt="" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<div align="center">
-<img src="./assets/header-connect.svg" width="230" alt="Connect" />
-</div>
+<p align="center">
+  <sub>⚡ Designed & Engineered by <b>Dimas Rizki Setyaji</b></sub>
+</p>
 
-<br />
-
-<div align="center">
-
-<a href="https://github.com/Sholis986g"><img src="./assets/icon-github.svg" width="56" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/your-linkedin"><img src="./assets/icon-linkedin.svg" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/your-instagram"><img src="./assets/icon-instagram.svg" width="56" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="mailto:your@email.com"><img src="./assets/icon-mail.svg" width="56" alt="Email" /></a>
-
-</div>
-
-<sub>
-<div align="center">Update the LinkedIn, Instagram and email links above with your own.</div>
-</sub>
-
-<br />
-
-<div align="center">
-<img src="./assets/footer.svg" width="100%" alt="" />
 </div>
