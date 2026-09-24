@@ -1,23 +1,11 @@
 <div align="center">
 
-<!-- 🌌 Animated Dynamic Cyber Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=230&section=header&text=DIMAS%20RIZKI%20SETYAJI&fontSize=42&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=%F0%9F%9B%A1%EF%B8%8F%20Cyber%20Security%20Engineer%20%E2%80%A2%20%F0%9F%94%8D%20Digital%20Forensics%20%E2%80%A2%20%E2%9A%A1%20Full%20Stack%20Dev&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Header" />
+<!-- 🌌 Custom High-Fidelity Cyber Animated Banner -->
+<img src="./assets/banner.svg" width="100%" alt="Dimas Rizki Setyaji — Cyber Security Engineer" />
 
-<!-- ⚡ Animated Typing Terminal HUD -->
-<a href="https://github.com/Sholis986g">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%3E_++INITIALIZING+SECURITY_SYSTEMS...;%3E_++DEFENDING+INFRASTRUCTURE+%26+INCIDENT+RESPONSE+%F0%9F%9B%A1%EF%B8%8F;%3E_++CRACKING+DOWN+DIGITAL+EVIDENCE+%F0%9F%94%8D;%3E_++ENGINEERING+HIGH-PERFORMANCE+WEB+PLATFORMS+%E2%9A%A1" alt="Typing HUD" />
-</a>
+<br />
 
-<br>
-
-<!-- 🌐 Status & Live Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Securing_The_Perimeter-00F5FF?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Yogyakarta%2C_ID-FF007F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=Sholis986g&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<!-- 🔗 Social Connection Pill Badges -->
+<!-- 🔗 Connect & Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -25,92 +13,117 @@
   <a href="https://github.com/Sholis986g"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<!-- 🌈 Cyber Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+<!-- ⚡ Animated Neon Divider -->
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- 📌 Header: About -->
+<img src="./assets/header-about.svg" width="230" alt="About" />
 
 </div>
 
-<br>
+<br />
 
-<!-- 🏆 GitHub Trophies Showcase -->
+```json
+{
+  "engineer": "Dimas Rizki Setyaji",
+  "location": "Yogyakarta, Indonesia",
+  "specialization": "Cyber Security & Full-Stack Systems",
+  "mission": "Defending perimeters, digital forensics investigation, and engineering resilient platforms.",
+  "status": "Online & Available for Security Audits / Development"
+}
+```
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sholis986g&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- 🛠️ Header: Tech Stack -->
+<img src="./assets/header-stack.svg" width="260" alt="Tech Stack" />
+
 </div>
 
-<br>
+<br />
 
-<!-- 🛠️ Animated Visual Tech Icons (SkillIcons) -->
+<!-- ⚡ Custom Interactive Tech Stack Panel -->
 <div align="center">
+  <img src="./assets/skills-panel.svg" width="100%" alt="Skills Panel" />
+</div>
 
-### ⚡ `TECH_ARSENAL.SYS`
+<br />
 
-<p align="center">
+<!-- 🛠️ Glowing Visual Tech Icons Grid -->
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,docker,bash,nginx,php,laravel,js,ts,mysql,wordpress,git,github,postman,figma,ps,ai,pr&perline=9&theme=dark" alt="Tech Stack Icons" />
   </a>
-</p>
+</div>
+
+<div align="center">
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- 📂 Header: Featured Work -->
+<img src="./assets/header-projects.svg" width="290" alt="Featured Work" />
 
 </div>
 
-<!-- 📦 Visual Bento Grid Cards (Minimal Text, High Impact) -->
+<br />
+
+<!-- 💎 Animated Cards 3 Columns -->
 <table align="center" width="100%">
   <tr>
-    <td width="33%" align="center" bgcolor="#0D1117">
-      <br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="50" alt="Security" /><br>
-      <b>🛡️ CYBER SECURITY</b>
-      <p><sub>Forensics · Hardening · Threat Analysis</sub></p>
+    <td width="33%" align="center">
+      <img src="./assets/card-security.svg" width="100%" alt="Security & Forensics" />
     </td>
-    <td width="33%" align="center" bgcolor="#0D1117">
-      <br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" alt="Full Stack" /><br>
-      <b>⚡ FULL-STACK</b>
-      <p><sub>Laravel · PHP · REST APIs · Docker</sub></p>
+    <td width="33%" align="center">
+      <img src="./assets/card-webdev.svg" width="100%" alt="Full Stack Platforms" />
     </td>
-    <td width="33%" align="center" bgcolor="#0D1117">
-      <br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="50" alt="Design" /><br>
-      <b>🎨 UI/UX & CREATIVE</b>
-      <p><sub>Figma · Photoshop · Visual Systems</sub></p>
+    <td width="33%" align="center">
+      <img src="./assets/card-design.svg" width="100%" alt="Visual Identity & Design" />
     </td>
   </tr>
 </table>
 
-<br>
-
-<!-- 📊 Live Animated GitHub Analytics Dashboard -->
 <div align="center">
 
-### 📈 `SYSTEM_ACTIVITY_METRICS`
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sholis986g&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=94A3B8" height="165" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholis986g&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" height="165" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sholis986g&theme=tokyo-night&hide_border=true&area=true&color=00F5FF&custom_title=Contribution%20Pulse" width="98%" alt="Activity Wave Graph" />
-</p>
+<!-- 📊 Header: Metrics -->
+<img src="./assets/header-metrics.svg" width="230" alt="Metrics" />
 
 </div>
 
-<br>
+<br />
 
-<!-- 🚀 Footer Cyber Animation Wave -->
+<!-- 📊 Dynamic GitHub Analytics & Fallback System -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sholis986g&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=00F5FF&text_color=AAB4D4&border_radius=14" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholis986g&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=AAB4D4&currStreakNum=E8ECF7&sideNums=E8ECF7&dates=6B7694&border_radius=14" width="49%" alt="GitHub Streak" />
+</div>
+
 <div align="center">
 
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/INITIATE_CONTACT-DROP_A_MESSAGE-00F5FF?style=for-the-badge&logo=mail.ru&logoColor=black" alt="Drop a message" />
-  </a>
-</p>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,18,12,6&height=120&section=footer" width="100%" alt="Footer Wave" />
+<!-- 🤝 Header: Connect -->
+<img src="./assets/header-connect.svg" width="230" alt="Connect" />
 
+</div>
+
+<br />
+
+<div align="center">
+
+  <a href="https://github.com/Sholis986g"><img src="./assets/icon-github.svg" width="56" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="./assets/icon-linkedin.svg" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="./assets/icon-instagram.svg" width="56" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="mailto:your-email@example.com"><img src="./assets/icon-mail.svg" width="56" alt="Email" /></a>
+
+</div>
+
+<br />
+
+<!-- 🚀 Animated Radar Terminal Footer -->
+<div align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Footer" />
 </div>

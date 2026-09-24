@@ -62,7 +62,7 @@
     <circle cx="30" cy="21" r="5.5" fill="#FF5F57" opacity="0.85"/>
     <circle cx="50" cy="21" r="5.5" fill="#FEBC2E" opacity="0.85"/>
     <circle cx="70" cy="21" r="5.5" fill="#28C840" opacity="0.85"/>
-    <text x="600" y="26" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,monospace" font-size="13" fill="#6B7694" letter-spacing="1">ahmad@sholis  ~  /usr/bin/security-engineer  &#8212;  zsh</text>
+    <text x="600" y="26" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,monospace" font-size="13" fill="#6B7694" letter-spacing="1">dimas@sec-ops  ~  /usr/bin/security-engineer  &#8212;  zsh</text>
 
     <!-- status pill -->
     <g transform="translate(1050,15)">
