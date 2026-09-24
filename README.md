@@ -1,151 +1,116 @@
 <div align="center">
 
-<!-- Animated Cyber Typing Header -->
+<!-- 🌌 Animated Dynamic Cyber Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=230&section=header&text=DIMAS%20RIZKI%20SETYAJI&fontSize=42&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=%F0%9F%9B%A1%EF%B8%8F%20Cyber%20Security%20Engineer%20%E2%80%A2%20%F0%9F%94%8D%20Digital%20Forensics%20%E2%80%A2%20%E2%9A%A1%20Full%20Stack%20Dev&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Header" />
+
+<!-- ⚡ Animated Typing Terminal HUD -->
 <a href="https://github.com/Sholis986g">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Dimas+Rizki+Setyaji+%F0%9F%91%8B;Cyber+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;Digital+Forensics+%26+Threat+Analysis+%F0%9F%94%8D;Full+Stack+Platform+Developer+%E2%9A%A1;Hardening+Infrastructure+%26+Systems+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%3E_++INITIALIZING+SECURITY_SYSTEMS...;%3E_++DEFENDING+INFRASTRUCTURE+%26+INCIDENT+RESPONSE+%F0%9F%9B%A1%EF%B8%8F;%3E_++CRACKING+DOWN+DIGITAL+EVIDENCE+%F0%9F%94%8D;%3E_++ENGINEERING+HIGH-PERFORMANCE+WEB+PLATFORMS+%E2%9A%A1" alt="Typing HUD" />
 </a>
 
+<br>
+
+<!-- 🌐 Status & Live Badges -->
 <p align="center">
-  <b>🛡️ Infrastructure Hardening · 🔍 Digital Forensics · ⚡ Full-Stack Systems</b><br>
-  <i>📍 Yogyakarta, Indonesia</i>
+  <img src="https://img.shields.io/badge/Status-Securing_The_Perimeter-00F5FF?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Yogyakarta%2C_ID-FF007F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=Sholis986g&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- Social Connect Badges -->
+<!-- 🔗 Social Connection Pill Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/Sholis986g"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<!-- 🌈 Cyber Neon Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 </div>
 
 <br>
 
-### 📟 `dimas@sec-ops:~$ cat profile.json`
+<!-- 🏆 GitHub Trophies Showcase -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sholis986g&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
-```json
-{
-  "name": "Dimas Rizki Setyaji",
-  "role": "Cyber Security Engineer & Full Stack Developer",
-  "location": "Yogyakarta, Indonesia",
-  "philosophy": "Security is not an afterthought — it is the core foundation.",
-  "core_competencies": [
-    "Digital Forensics & Incident Investigation",
-    "Threat Analysis & Vulnerability Assessment",
-    "Infrastructure Hardening & Secure Architecture",
-    "Scalable Full-Stack Application Engineering",
-    "Workflow Automation & Tooling"
-  ],
-  "creative_passions": [
-    "Visual Identity & UI/UX Design",
-    "Architectural & Scene Photography"
-  ]
-}
-```
+<br>
 
----
-
-### 🛠️ Technical Arsenal & Frameworks
-
+<!-- 🛠️ Animated Visual Tech Icons (SkillIcons) -->
 <div align="center">
 
-#### 🛡️ **Cyber Security & Digital Forensics**
-<p>
-  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-1F2A38?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Digital_Forensics-Autopsy-0A84FF?style=flat-square" alt="Autopsy" />
-  <img src="https://img.shields.io/badge/Log_Analysis-SIEM-5E5CE6?style=flat-square" alt="SIEM" />
-  <img src="https://img.shields.io/badge/Network_Security-Nmap-2B3252?style=flat-square" alt="Nmap" />
-</p>
+### ⚡ `TECH_ARSENAL.SYS`
 
-#### ⚡ **Full-Stack & Backend Engineering**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-</p>
-
-#### 🚀 **DevOps, Automation & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
-</p>
-
-#### 🎨 **UI/UX & Creative Direction**
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" alt="Lightroom" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,kali,docker,bash,nginx,php,laravel,js,ts,mysql,wordpress,git,github,postman,figma,ps,ai,pr&perline=9&theme=dark" alt="Tech Stack Icons" />
+  </a>
 </p>
 
 </div>
 
----
-
-### 📂 Focus Disciplines & Domains
-
-<table>
+<!-- 📦 Visual Bento Grid Cards (Minimal Text, High Impact) -->
+<table align="center" width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3>🛡️ Security & Forensics</h3>
-      <p>Incident response, digital evidence acquisition, system auditing, network packet inspection, and vulnerability mitigation.</p>
-      <code>Linux</code> <code>Wireshark</code> <code>Autopsy</code> <code>SIEM</code>
+    <td width="33%" align="center" bgcolor="#0D1117">
+      <br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="50" alt="Security" /><br>
+      <b>🛡️ CYBER SECURITY</b>
+      <p><sub>Forensics · Hardening · Threat Analysis</sub></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>⚡ Full-Stack Platforms</h3>
-      <p>Architecting secure, high-performance web applications, robust RESTful APIs, database design, and end-to-end delivery.</p>
-      <code>Laravel</code> <code>PHP</code> <code>MySQL</code> <code>Docker</code>
+    <td width="33%" align="center" bgcolor="#0D1117">
+      <br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" alt="Full Stack" /><br>
+      <b>⚡ FULL-STACK</b>
+      <p><sub>Laravel · PHP · REST APIs · Docker</sub></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>🎨 Visual & Creative Media</h3>
-      <p>Crafting intuitive user interfaces, brand identities, graphic compositions, and high-fidelity photography.</p>
-      <code>Figma</code> <code>Photoshop</code> <code>UI/UX</code> <code>Composition</code>
+    <td width="33%" align="center" bgcolor="#0D1117">
+      <br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="50" alt="Design" /><br>
+      <b>🎨 UI/UX & CREATIVE</b>
+      <p><sub>Figma · Photoshop · Visual Systems</sub></p>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-### 📊 Activity & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sholis986g&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=94A3B8" width="49%" alt="Dimas's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholis986g&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="49%" alt="Dimas's GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 12px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholis986g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=94A3B8" width="50%" alt="Top Languages" />
-</div>
-
----
-
+<!-- 📊 Live Animated GitHub Analytics Dashboard -->
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate
+### 📈 `SYSTEM_ACTIVITY_METRICS`
 
-Whether you're looking to collaborate on security research, discuss infrastructure resilience, or engineer scalable platforms:
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sholis986g&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=94A3B8" height="165" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholis986g&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" height="165" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-[![Get in Touch](https://img.shields.io/badge/Contact-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sholis986g&theme=tokyo-night&hide_border=true&area=true&color=00F5FF&custom_title=Contribution%20Pulse" width="98%" alt="Activity Wave Graph" />
+</p>
+
+</div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<!-- 🚀 Footer Cyber Animation Wave -->
+<div align="center">
 
 <p align="center">
-  <sub>⚡ Designed & Engineered by <b>Dimas Rizki Setyaji</b></sub>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/INITIATE_CONTACT-DROP_A_MESSAGE-00F5FF?style=for-the-badge&logo=mail.ru&logoColor=black" alt="Drop a message" />
+  </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,18,12,6&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
